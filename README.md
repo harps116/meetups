@@ -17,8 +17,8 @@ resources to a member of the group for archival.
 
 ## Events
 
-| Number | Date       | Topic(s)                                                  |
-|--------|------------|-----------------------------------------------------------|
-| 31     | 10.18.2017 | JavaScript Animation                                      |
-| 32     | 10.25.2017 | Mathematics and logic behind image processing             |
-| 33     | 11.01.2017 | Git and Github                                            |
+| Number | Date       | Topic(s)                                                  | Resource(s)     |
+|--------|------------|-----------------------------------------------------------|-----------------|
+| 31     | 10.18.2017 | JavaScript Animation                                      | tba             |
+| 32     | 10.25.2017 | Mathematics and logic behind image processing             | tba             |
+| 33     | 11.01.2017 | Git and Github                                            | tba             |
