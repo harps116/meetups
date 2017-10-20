@@ -8,7 +8,7 @@ It is up to the presenter how they would like to present resources. It is recomm
 each presentation have some documentation, this can be in the form of a slide deck, PDF, or 
 (preferred) GitHub repo with notes/examples.
 
-Recording the presentation is also recommended. (Quicktime)(https://support.apple.com/quicktime) 
+Recording the presentation is also recommended. [Quicktime](https://support.apple.com/quicktime) 
 allows for recording of the screen as well as audio and is the preferred method, however, this 
 is up to the presenter.
 
