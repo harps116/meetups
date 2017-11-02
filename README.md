@@ -52,4 +52,4 @@ resources to a member of the group for archival.
 | 30               | 10/11/2017| Frontend Masters Giveaway       |              [FrontendMasters.com](https://frontendmasters.com/)                                                                                                                               |
 | 31     | 10/18/2017 | JavaScript Animation                                      | [Greensock](https://greensock.com/learning), [Learning GASP from Greensock](https://greensock.com/learning)              |
 | 32     | 10/25/2017 | Mathematics and logic behind image processing             | [Mathematics of Image Processing](https://github.com/mredig/Mathematics-of-Image-Processing)            |
-| 33     | 11/01/2017 | Git and Github                                            |            |
+| 33     | 11/01/2017 | Git and Github                                            | [Video, Docs in Description](https://youtu.be/bVozZ8OA1Jc)           |
