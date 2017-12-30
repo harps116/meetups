@@ -33,23 +33,27 @@ resources to a member of the group for archival.
 | 12               | 05/26/2017 | Frontend Masters Giveaway                       | [FrontendMasters.com](https://frontendmasters.com/)                                                                                               |
 | 13               | 06/02/2017 | Community Project                               | Parenting Place Website Help                                                                                                                      |
 | 14               | 06/09/2017 | WordPress                                       | [WordPress](https://wordpress.org/)                                                                                                               |
-| 15               | 06/16/2017 | Member Ideas                                    | General Discussion                                                                                                                                |
+| 15               | 06/16/2017 | Member Ideas                                    | General Discussion                                                                                                                               |
 | 16               | 06/23/2017 | Docker                                          | [Presentation](https://prezi.com/view/tAGZ4zpatsQEdpQLkKZj/)                                                                                      |
-| 2017               | 06/30/2017 | Frontend Masters Giveaway                       | [FrontendMasters.com](https://frontendmasters.com/)                                                                                               |
+| 17               | 06/30/2017 | Frontend Masters Giveaway                       | [FrontendMasters.com](https://frontendmasters.com/)                                                                                               |
 | 18               | 07/07/2017 | WordPress & Discussion                          | [WordPress](https://wordpress.org/)                                                                                                               |
-| 19               | 07/12/2017 | GitHub Pages and measuring CPU output with Rust | [Presentation](https://evanwill.github.io/go-go-ghpages/) [Notes](http://humhub.laxdev.tech/index.php?r=content%2Fperma&id=393)                   |
+| 19               | 07/12/2017 | GitHub Pages and measuring CPU output with Rust | [Presentation](https://evanwill.github.io/go-go-ghpages/), [Notes](http://humhub.laxdev.tech/index.php?r=content%2Fperma&id=393)            |
 | 20               | 07/19/2017 | TwitterBot                     | [Repo for TwitterBot](https://laxdevtech.github.io/twitterbot/)                                                                                   |
 | 21               | 07/26/2017 | Setting Up a Home Lab                           | [Reddit r/homelab](https://www.reddit.com/r/homelab/)                                                                                                       |
-| CodePen Event #1 | 08/02/2017 | CodePen Demos                              | [CodePens](https://codepen.io/collection/XLxGdj/) and [Pictures](https://drive.google.com/drive/folders/0B3ylsEsxGMCLZ1NESjZoTU16aEk?usp=sharing) |
+| CodePen Event #1 | 08/02/2017 | CodePen Demos                              | [CodePens](https://codepen.io/collection/XLxGdj/), [Pictures](https://drive.google.com/drive/folders/0B3ylsEsxGMCLZ1NESjZoTU16aEk?usp=sharing) |
 | 22               | 08/09/2017 | Docker                                          | [Repo](https://github.com/Fluidbyte/Docker-Tutorial), [Resources](https://github.com/veggiemonk/awesome-docker)                                   |
 | 23               | 08/16/2017 | That Conference And Unity                       | [Notes](http://humhub.laxdev.tech/index.php?r=content%2Fperma&id=633)                                                                             |
 | 24               | 08/23/2017 | Frontend Masters Giveaway                       | [FrontendMasters.com](https://frontendmasters.com/), [GPG](https://steemit.com/crypto/@matthewdavid/the-crypto-lifestyle-encrypt-files-with-gpg)  |
-| 25               | 09/06/2017 | REST API's                                      | [Video](https://www.youtube.com/watch?v=hukhrG1H8oc&feature=youtu.be)                                                                             |
+| 25               | 09/06/2017 | REST API's                                      | [Video](https://www.youtube.com/watch?v=hukhrG1H8oc&feature=youtu.be)                                                                          |
 | 26               | 09/13/2017 | Steemit                                         | [Steemit Post](https://steemit.com/steemit/@matthewdavid/i-m-giving-a-talk-about-steemit-this-evening)                                            |
-| 27               | 09/20/2017 | .Net Core and React                             | [.Net Core](https://dotnet.github.io/) [React Post](https://steemit.com/reactjs/@fluidbyte/a-no-bs-dive-into-reactjs)                             |
+| 27               | 09/20/2017 | .Net Core and React                             | [.Net Core](https://dotnet.github.io/) [React Post](https://steemit.com/reactjs/@fluidbyte/a-no-bs-dive-into-reactjs)                           |
 | 28               | 09/27/2017 | CSS preprocessing with SASS                     | [SASS Post](https://steemit.com/webdesign/@harps116/css-superpowers-with-sass)                                                                    |
-| 29               | 10/04/2017 | Bitcoin                                         | tba                                                                                                                                               |
+| 29               | 10/04/2017 | Bitcoin                                         | tba                                                                                                                                                |
 | 30               | 10/11/2017| Frontend Masters Giveaway       |              [FrontendMasters.com](https://frontendmasters.com/)                                                                                                                               |
-| 31     | 10/18/2017 | JavaScript Animation                                      | tba             |
-| 32     | 10/25/2017 | Mathematics and logic behind image processing             | tba             |
-| 33     | 11/01/2017 | Git and Github                                            | tba             |
+| 31     | 10/18/2017 | JavaScript Animation                                      | [Greensock](https://greensock.com/learning), [Learning GASP from Greensock](https://greensock.com/learning)              |
+| 32     | 10/25/2017 | Mathematics and logic behind image processing             | [Mathematics of Image Processing](https://github.com/mredig/Mathematics-of-Image-Processing)            |
+| 33     | 11/01/2017 | Git and Github                                            | [Video, Docs in Description](https://youtu.be/bVozZ8OA1Jc)           |
+| 34      | 11/08/2017 | Pythons, Dungeons, and Dragons oh my! | tba |
+| 35      | 11/15/2017 | Socket Listening with Python          | tba |
+| 36      | 12/20/2017 | Drilling into the Hardware            | [Notes](https://slack-files.com/T6EFHD9T4-F8HG9UB2L-e30567e130)
+
